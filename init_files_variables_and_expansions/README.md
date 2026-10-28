@@ -23,3 +23,6 @@ Creates a local variable BEST with the value School
 
 ## 7-create_global_variable
 Creates a global variable BEST with the value School
+
+## 8-true_knowledge
+Prints the result of 128 plus the value of TRUEKNOWLEDGE

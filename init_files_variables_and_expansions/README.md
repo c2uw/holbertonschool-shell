@@ -26,3 +26,6 @@ Creates a global variable BEST with the value School
 
 ## 8-true_knowledge
 Prints the result of 128 plus the value of TRUEKNOWLEDGE
+
+## 9-divide_and_rule
+Prints the result of POWER divided by DIVIDE

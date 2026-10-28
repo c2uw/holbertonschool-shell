@@ -11,3 +11,6 @@ Adds /action as the last directory in PATH
 
 ## 3-paths
 Counts the number of directories in PATH
+
+## 4-global_variables
+Lists environment variables

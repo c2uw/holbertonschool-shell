@@ -38,3 +38,6 @@ Converts the binary number in BINARY to decimal
 
 ## 12-combinations
 Prints all combinations of two lowercase letters except oo
+
+## 13-print_float
+Prints the number in NUM with two decimal places

@@ -41,3 +41,6 @@ Prints all combinations of two lowercase letters except oo
 
 ## 13-print_float
 Prints the number in NUM with two decimal places
+
+## 14-decimal_to_hexadecimal
+Converts the number in DECIMAL to hexadecimal
